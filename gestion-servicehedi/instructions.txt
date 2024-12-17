@@ -1,0 +1,9 @@
+// T7el terminal fel dossier ta3 lprojet
+
+make
+
+sudo make install
+
+gestion-service
+
+c bon!
